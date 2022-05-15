@@ -50,13 +50,10 @@ python manage.py createsuperuser
 <table>
    <tr>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/93389016?v=4"></img>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/97949259?v=4"></img>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/97365136?v=4"></img>
     </td>
   </tr>
   <tr>
