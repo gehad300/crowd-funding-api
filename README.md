@@ -66,9 +66,7 @@ python manage.py createsuperuser
       <td>
       <a href="https://github.com/dina810"> Dina Reda </a>
     </td>
-     <td>
-      <a href="https://github.com/MaiiEmad"> Mai Emad </a>
-    </td>
+   
   </tr>
   <tr>
     <td>
